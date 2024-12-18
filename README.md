@@ -19,7 +19,7 @@ A News website which gives latest news about India. This website Build using Pla
 # Dark Mode Page
 ![Screenshot 2024-12-18 160102](https://github.com/user-attachments/assets/14d024d5-ac32-48eb-abf8-37d5df05c89a)
 # Responsive design
-![Screenshot 2024-12-18 160216](https://github.com/user-attachments/assets/0e061348-1ed4-4b2d-bbb2-a2f804113db0
+![Screenshot 2024-12-18 160216](https://github.com/user-attachments/assets/0e061348-1ed4-4b2d-bbb2-a2f804113db0) 
 #
 ![Screenshot 2024-12-18 160237](https://github.com/user-attachments/assets/68896a19-5751-4972-a029-abc728e983d8)
 
